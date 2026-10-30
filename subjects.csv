@@ -1,0 +1,21 @@
+﻿subject_id,subject_name,subject_code,branch_id
+1,Mathematics,MAT01,1
+2,English,ENG02,2
+3,Physics,PHY03,3
+4,Chemistry,CHE04,4
+5,Biology,BIO05,5
+6,Computer Science,CSC06,6
+7,Social Studies,SST07,7
+8,Telugu,TEL08,8
+9,Hindi,HIN09,9
+10,Environmental Science,EVS10,10
+11,Data Science,DSC11,11
+12,Physical Education,PED12,12
+13,Economics,ECO13,13
+14,Accountancy,ACC14,14
+15,Business Studies,BST15,15
+16,Statistics,STA16,16
+17,Geography,GEO17,17
+18,History,HIS18,18
+19,Civics,CIV19,19
+20,Art and Craft,ART20,20

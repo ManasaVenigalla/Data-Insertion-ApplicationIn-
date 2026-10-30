@@ -1,0 +1,21 @@
+﻿attendance_id,student_id,section_id,date,status,remarks,marked_by_staff_id
+1,10001,1,2026-01-01,Present,Arrived after assembly,1
+2,10002,2,2026-02-02,Present,Medical leave approved,2
+3,10003,3,2026-03-03,Absent,Medical leave approved,3
+4,10004,4,2026-04-04,Present,,4
+5,10005,5,2026-05-05,Present,Attendance recorded by class teacher,5
+6,10006,6,2026-06-06,Late,,6
+7,10007,7,2026-07-07,Present,Attendance recorded by class teacher,7
+8,10008,8,2026-08-08,Present,Arrived after assembly,8
+9,10009,9,2026-09-09,Present,Arrived after assembly,9
+10,10010,10,2026-01-10,Late,Arrived after assembly,10
+11,10011,11,2026-02-11,Late,Medical leave approved,11
+12,10012,12,2026-03-12,Late,Medical leave approved,12
+13,10013,13,2026-04-13,Present,Attendance recorded by class teacher,13
+14,10014,14,2026-05-14,Present,Attendance recorded by class teacher,14
+15,10015,15,2026-06-15,Present,Attendance recorded by class teacher,15
+16,10016,16,2026-07-16,Absent,Medical leave approved,16
+17,10017,17,2026-08-17,Present,Arrived after assembly,17
+18,10018,18,2026-09-18,Present,On time,18
+19,10019,19,2026-01-19,Present,Attendance recorded by class teacher,19
+20,10020,20,2026-02-20,Late,,20

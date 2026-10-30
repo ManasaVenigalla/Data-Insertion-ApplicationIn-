@@ -1,0 +1,21 @@
+﻿alumni_id,student_id,graduation_year,current_company,current_position,linkedin_url
+1,10001,2019,Accenture,Software Engineer,https://www.linkedin.com/in/alumni-profile-0001/
+2,10002,2020,TCS,Software Engineer,https://www.linkedin.com/in/alumni-profile-0002/
+3,10003,2021,TCS,Business Analyst,https://www.linkedin.com/in/alumni-profile-0003/
+4,10004,2022,Andhra Pradesh Government,Data Analyst,https://www.linkedin.com/in/alumni-profile-0004/
+5,10005,2023,Accenture,Teacher,https://www.linkedin.com/in/alumni-profile-0005/
+6,10006,2024,TCS,Data Analyst,https://www.linkedin.com/in/alumni-profile-0006/
+7,10007,2025,Accenture,Data Analyst,https://www.linkedin.com/in/alumni-profile-0007/
+8,10008,2018,Tech Mahindra,Data Analyst,https://www.linkedin.com/in/alumni-profile-0008/
+9,10009,2019,Tech Mahindra,Business Analyst,https://www.linkedin.com/in/alumni-profile-0009/
+10,10010,2020,Higher Studies,Data Analyst,https://www.linkedin.com/in/alumni-profile-0010/
+11,10011,2021,Amazon,Systems Engineer,https://www.linkedin.com/in/alumni-profile-0011/
+12,10012,2022,Wipro,Data Analyst,https://www.linkedin.com/in/alumni-profile-0012/
+13,10013,2023,HCLTech,Teacher,https://www.linkedin.com/in/alumni-profile-0013/
+14,10014,2024,Accenture,Business Analyst,https://www.linkedin.com/in/alumni-profile-0014/
+15,10015,2025,Tech Mahindra,Project Associate,https://www.linkedin.com/in/alumni-profile-0015/
+16,10016,2018,Infosys,Software Engineer,https://www.linkedin.com/in/alumni-profile-0016/
+17,10017,2019,Tech Mahindra,Systems Engineer,https://www.linkedin.com/in/alumni-profile-0017/
+18,10018,2020,HCLTech,Software Engineer,https://www.linkedin.com/in/alumni-profile-0018/
+19,10019,2021,Tech Mahindra,Software Engineer,https://www.linkedin.com/in/alumni-profile-0019/
+20,10020,2022,Amazon,Business Analyst,https://www.linkedin.com/in/alumni-profile-0020/

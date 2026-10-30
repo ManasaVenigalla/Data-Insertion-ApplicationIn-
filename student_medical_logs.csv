@@ -1,0 +1,21 @@
+﻿medical_log_id,student_id,blood_group,issue,emergency_contact_name,emergency_contact_phone
+1,10001,A-,Stomach discomfort,Vijaya Murthy,+91-77065-10222
+2,10002,O+,Seasonal allergy,Aruna Patel,+91-98377-96105
+3,10003,A-,Stomach discomfort,Padma Naidu,+91-61353-26688
+4,10004,A-,Routine health check,Lakshmi Patel,+91-65048-48358
+5,10005,B+,Stomach discomfort,Swarna Murthy,+91-77597-18962
+6,10006,AB+,Routine health check,Swarna Yadav,+91-77008-87066
+7,10007,O-,Headache reported to nurse,Padma Sharma,+91-86657-47087
+8,10008,AB+,Stomach discomfort,Vijaya Yadav,+91-98020-79136
+9,10009,B+,Minor sports injury,Madhavi Yadav,+91-90379-87586
+10,10010,A-,Headache reported to nurse,Vijaya Varma,+91-92119-37842
+11,10011,B+,Minor sports injury,Lakshmi Prasad,+91-92891-12288
+12,10012,O+,Headache reported to nurse,Saritha Kumar,+91-91611-74246
+13,10013,B+,Stomach discomfort,Vijaya Murthy,+91-60063-46939
+14,10014,O+,Headache reported to nurse,Saritha Gupta,+91-83408-26777
+15,10015,AB+,Routine health check,Saritha Prasad,+91-79508-14309
+16,10016,AB+,Headache reported to nurse,Padma Chowdary,+91-85330-17964
+17,10017,O-,Stomach discomfort,Anuradha Reddy,+91-86019-99962
+18,10018,AB+,Minor sports injury,Aruna Patel,+91-93295-45214
+19,10019,A-,Stomach discomfort,Anuradha Varma,+91-91949-29389
+20,10020,A+,Stomach discomfort,Jyothi Murthy,+91-86869-66499

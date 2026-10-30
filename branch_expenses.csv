@@ -1,0 +1,21 @@
+﻿expense_id,branch_id,expense_type,amount,payment_date,vendor_name,invoice_document_url
+1,1,Rent,8500.00,2026-01-15,Andhra Office Mart,https://example.com/invoices/INV-2026-0001.pdf
+2,2,Utility,8500.00,2026-02-15,City Water Board,https://example.com/invoices/INV-2026-0002.pdf
+3,3,Maintenance,42000.00,2026-03-15,Brightline Networks,https://example.com/invoices/INV-2026-0003.pdf
+4,4,Other,17500.00,2026-04-15,City Water Board,https://example.com/invoices/INV-2026-0004.pdf
+5,5,Rent,17500.00,2026-05-15,City Water Board,https://example.com/invoices/INV-2026-0005.pdf
+6,6,Utility,28500.00,2026-06-15,Sri Lakshmi Electricals,https://example.com/invoices/INV-2026-0006.pdf
+7,7,Maintenance,22000.00,2026-07-15,Brightline Networks,https://example.com/invoices/INV-2026-0007.pdf
+8,8,Other,28500.00,2026-08-15,Green Leaf Services,https://example.com/invoices/INV-2026-0008.pdf
+9,9,Rent,8500.00,2026-09-15,Sri Lakshmi Electricals,https://example.com/invoices/INV-2026-0009.pdf
+10,10,Utility,22000.00,2026-01-15,Andhra Office Mart,https://example.com/invoices/INV-2026-0010.pdf
+11,11,Maintenance,8500.00,2026-02-15,Vijaya Facility Services,https://example.com/invoices/INV-2026-0011.pdf
+12,12,Other,12000.00,2026-03-15,Brightline Networks,https://example.com/invoices/INV-2026-0012.pdf
+13,13,Rent,22000.00,2026-04-15,Sri Lakshmi Electricals,https://example.com/invoices/INV-2026-0013.pdf
+14,14,Utility,28500.00,2026-05-15,Vijaya Facility Services,https://example.com/invoices/INV-2026-0014.pdf
+15,15,Maintenance,22000.00,2026-06-15,Andhra Office Mart,https://example.com/invoices/INV-2026-0015.pdf
+16,16,Other,28500.00,2026-07-15,Green Leaf Services,https://example.com/invoices/INV-2026-0016.pdf
+17,17,Rent,35000.00,2026-08-15,Brightline Networks,https://example.com/invoices/INV-2026-0017.pdf
+18,18,Utility,28500.00,2026-09-15,Vijaya Facility Services,https://example.com/invoices/INV-2026-0018.pdf
+19,19,Maintenance,35000.00,2026-01-15,Brightline Networks,https://example.com/invoices/INV-2026-0019.pdf
+20,20,Other,17500.00,2026-02-15,City Water Board,https://example.com/invoices/INV-2026-0020.pdf

@@ -1,0 +1,21 @@
+﻿item_id,category_id,item_name,sku_code,total_quantity,available_quantity
+1,1,A4 Paper Reams,INV-2026-00001,226,10
+2,2,Whiteboard Markers,INV-2026-00002,195,23
+3,3,Microscope,INV-2026-00003,173,20
+4,4,Football,INV-2026-00004,87,25
+5,5,Laptop,INV-2026-00005,132,22
+6,6,Student Desk,INV-2026-00006,163,21
+7,7,Disinfectant,INV-2026-00007,123,16
+8,8,Projector,INV-2026-00008,133,20
+9,9,First Aid Kit,INV-2026-00009,212,13
+10,10,Watercolour Set,INV-2026-00010,129,20
+11,11,Printer Toner,INV-2026-00011,204,11
+12,12,Lab Safety Goggles,INV-2026-00012,211,25
+13,13,Basketball,INV-2026-00013,122,14
+14,14,Keyboard,INV-2026-00014,86,18
+15,15,Office Chair,INV-2026-00015,45,16
+16,16,Notebooks,INV-2026-00016,231,10
+17,17,Extension Board,INV-2026-00017,246,23
+18,18,Library Labels,INV-2026-00018,120,19
+19,19,Sports Cones,INV-2026-00019,113,25
+20,20,USB Drive,INV-2026-00020,173,19

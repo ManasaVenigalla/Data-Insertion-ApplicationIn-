@@ -1,0 +1,21 @@
+﻿lesson_plan_id,subject_assignment_id,topic_title,estimated_hours,status
+1,1,Fractions and Decimals,1,Planned
+2,2,Reading Comprehension,1,Completed
+3,3,Newton Laws of Motion,5,Completed
+4,4,Chemical Reactions,5,Completed
+5,5,Human Digestive System,3,Planned
+6,6,Python Basics,2,Planned
+7,7,Indian Constitution,1,In_Progress
+8,8,Algebraic Expressions,5,In_Progress
+9,1,Electricity and Circuits,1,Completed
+10,2,Ecosystems,3,Completed
+11,3,Fractions and Decimals,4,Planned
+12,4,Reading Comprehension,1,In_Progress
+13,5,Newton Laws of Motion,4,Completed
+14,6,Chemical Reactions,5,In_Progress
+15,7,Human Digestive System,1,Completed
+16,8,Python Basics,5,In_Progress
+17,1,Indian Constitution,4,Completed
+18,2,Algebraic Expressions,5,Completed
+19,3,Electricity and Circuits,2,In_Progress
+20,4,Ecosystems,3,In_Progress

@@ -1,0 +1,21 @@
+﻿route_id,branch_id,route_name,start_location,end_location
+1,1,Route 01 - City Centre,Guntur Main Campus,School Main Gate
+2,2,Route 02 - Market Road,Tenali Railway Station,Sports Ground Gate
+3,3,Route 03 - Ring Road,Guntur Main Campus,Sports Ground Gate
+4,4,Route 04 - Canal Road,Tenali Railway Station,Science Block Entrance
+5,5,Route 05 - Ring Road,Tenali Railway Station,Sports Ground Gate
+6,6,Route 06 - Ring Road,Tenali Railway Station,Hostel Gate
+7,7,Route 07 - Rural East,Mangalagiri Junction,Sports Ground Gate
+8,8,Route 08 - Ring Road,Guntur Main Campus,Science Block Entrance
+9,9,Route 09 - City Centre,Vijayawada Bus Stand,School Main Gate
+10,10,Route 10 - Market Road,Tenali Railway Station,Science Block Entrance
+11,11,Route 11 - Rural East,Guntur Main Campus,Science Block Entrance
+12,12,Route 12 - Ring Road,Vijayawada Bus Stand,Hostel Gate
+13,13,Route 13 - City Centre,Tenali Railway Station,Hostel Gate
+14,14,Route 14 - Canal Road,Tenali Railway Station,Science Block Entrance
+15,15,Route 15 - City Centre,Guntur Main Campus,School Main Gate
+16,16,Route 16 - Ring Road,Mangalagiri Junction,Sports Ground Gate
+17,17,Route 17 - City Centre,Tenali Railway Station,School Main Gate
+18,18,Route 18 - Rural East,Mangalagiri Junction,Science Block Entrance
+19,19,Route 19 - Market Road,Mangalagiri Junction,Science Block Entrance
+20,20,Route 20 - Rural East,Vijayawada Bus Stand,School Main Gate

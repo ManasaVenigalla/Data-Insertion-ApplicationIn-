@@ -1,0 +1,21 @@
+﻿application_id,job_id,applicant_name,resume_url,status
+1,1,Charan Sharma,https://example.com/resumes/candidate_0001.pdf,Applied
+2,2,Harika Reddy,https://example.com/resumes/candidate_0002.pdf,Interviewing
+3,3,Navya Devi,https://example.com/resumes/candidate_0003.pdf,Applied
+4,4,Ritesh Reddy,https://example.com/resumes/candidate_0004.pdf,Offered
+5,5,Harika Patel,https://example.com/resumes/candidate_0005.pdf,Rejected
+6,6,Pooja Goud,https://example.com/resumes/candidate_0006.pdf,Applied
+7,7,Nikhil Murthy,https://example.com/resumes/candidate_0007.pdf,Rejected
+8,8,Mounika Kumar,https://example.com/resumes/candidate_0008.pdf,Offered
+9,9,Charan Prasad,https://example.com/resumes/candidate_0009.pdf,Rejected
+10,10,Deepika Varma,https://example.com/resumes/candidate_0010.pdf,Rejected
+11,11,Pooja Kumar,https://example.com/resumes/candidate_0011.pdf,Rejected
+12,12,Keerthi Sharma,https://example.com/resumes/candidate_0012.pdf,Rejected
+13,13,Akash Chowdary,https://example.com/resumes/candidate_0013.pdf,Offered
+14,14,Bhavana Kolluri,https://example.com/resumes/candidate_0014.pdf,Offered
+15,15,Sravya Patel,https://example.com/resumes/candidate_0015.pdf,Applied
+16,16,Akash Murthy,https://example.com/resumes/candidate_0016.pdf,Rejected
+17,17,Mounika Kumar,https://example.com/resumes/candidate_0017.pdf,Offered
+18,18,Pranav Naidu,https://example.com/resumes/candidate_0018.pdf,Rejected
+19,19,Harika Kolluri,https://example.com/resumes/candidate_0019.pdf,Applied
+20,20,Akash Reddy,https://example.com/resumes/candidate_0020.pdf,Rejected

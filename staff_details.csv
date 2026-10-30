@@ -1,0 +1,21 @@
+﻿staff_id,user_id,branch_id,designation,joining_date,qualification
+1,21,1,Mathematics Teacher,2016-01-04,"B.Ed., B.Sc."
+2,22,2,English Teacher,2017-02-07,"M.A., B.Ed."
+3,23,3,Science Teacher,2018-03-10,"M.Sc., B.Ed."
+4,24,4,Primary Teacher,2019-04-13,MCA
+5,25,5,Computer Science Teacher,2020-05-16,M.Com.
+6,26,6,Librarian,2021-06-19,B.Lib.Sc.
+7,27,7,Accountant,2022-07-22,MBA
+8,28,8,School Nurse,2023-08-25,GNM Nursing
+9,29,9,Transport Supervisor,2024-09-01,B.Tech.
+10,30,10,Vice Principal,2015-10-04,M.Ed.
+11,31,11,Mathematics Teacher,2016-11-07,"B.Ed., B.Sc."
+12,32,12,English Teacher,2017-12-10,"M.A., B.Ed."
+13,33,13,Science Teacher,2018-01-13,"M.Sc., B.Ed."
+14,34,14,Primary Teacher,2019-02-16,MCA
+15,35,15,Computer Science Teacher,2020-03-19,M.Com.
+16,36,16,Librarian,2021-04-22,B.Lib.Sc.
+17,37,17,Accountant,2022-05-25,MBA
+18,38,18,School Nurse,2023-06-01,GNM Nursing
+19,39,19,Transport Supervisor,2024-07-04,B.Tech.
+20,40,20,Vice Principal,2015-08-07,M.Ed.

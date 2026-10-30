@@ -1,0 +1,21 @@
+﻿log_id,alumni_id,university_name,degree_pursued,admission_year
+1,1,Andhra University,M.A. English,2021
+2,2,Acharya Nagarjuna University,M.Sc. Data Science,2022
+3,3,Acharya Nagarjuna University,M.Com.,2023
+4,4,NIT Warangal,M.Pharm.,2024
+5,5,JNTU Kakinada,M.Ed.,2025
+6,6,NIT Warangal,M.Pharm.,2026
+7,7,VIT Vellore,M.Com.,2020
+8,8,VIT Vellore,M.Pharm.,2021
+9,9,VIT Vellore,MBA,2022
+10,10,NIT Warangal,M.Pharm.,2023
+11,11,Acharya Nagarjuna University,M.Sc. Data Science,2024
+12,12,JNTU Kakinada,M.A. English,2025
+13,13,Andhra University,M.Sc. Data Science,2026
+14,14,NIT Warangal,M.Com.,2020
+15,15,Acharya Nagarjuna University,M.Com.,2021
+16,16,VIT Vellore,M.Pharm.,2022
+17,17,Osmania University,MBA,2023
+18,18,Acharya Nagarjuna University,M.Com.,2024
+19,19,Acharya Nagarjuna University,M.Com.,2025
+20,20,Osmania University,M.Com.,2026

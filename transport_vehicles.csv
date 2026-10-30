@@ -1,0 +1,21 @@
+﻿vehicle_id,branch_id,license_plate,vehicle_model,seating_capacity,insurance_expiry,status
+1,1,AP39 AB 2837,Force Traveller,32,2028-01-28,Retired
+2,2,AP26 DE 5115,Ashok Leyland School Bus,18,2029-02-28,Active
+3,3,AP16 CD 1083,Mahindra Supro School Van,32,2027-03-28,Active
+4,4,AP7 AB 1308,Force Traveller,40,2028-04-28,Maintenance
+5,5,AP26 AB 5140,Force Traveller,48,2029-05-28,Maintenance
+6,6,AP39 BC 6754,Force Traveller,24,2027-06-28,Maintenance
+7,7,AP39 AB 8866,Mahindra Supro School Van,24,2028-07-28,Active
+8,8,AP26 AB 3149,Force Traveller,24,2029-08-28,Active
+9,9,AP26 CD 4825,Force Traveller,18,2027-09-28,Maintenance
+10,10,AP39 AB 6986,Tata Starbus,18,2028-10-28,Retired
+11,11,AP16 DE 6695,Tata Starbus,18,2029-11-28,Active
+12,12,AP16 BC 9014,Tata Starbus,40,2027-12-28,Active
+13,13,AP26 CD 8486,Mahindra Supro School Van,24,2028-01-28,Active
+14,14,AP26 BC 7897,Tata Starbus,24,2029-02-28,Active
+15,15,AP16 BC 2768,Mahindra Supro School Van,18,2027-03-28,Active
+16,16,AP26 AB 1644,Mahindra Supro School Van,32,2028-04-28,Retired
+17,17,AP26 BC 1533,Mahindra Supro School Van,48,2029-05-28,Retired
+18,18,AP7 AB 9838,Tata Starbus,48,2027-06-28,Retired
+19,19,AP26 CD 9065,Force Traveller,24,2028-07-28,Maintenance
+20,20,AP16 AB 6970,Ashok Leyland School Bus,32,2029-08-28,Retired

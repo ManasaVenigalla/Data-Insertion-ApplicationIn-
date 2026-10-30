@@ -1,0 +1,21 @@
+﻿incident_id,exam_schedule_id,student_id,reported_by_staff_id,incident_details,action_taken
+1,1,10001,1,Student was observed communicating during the examination.,Answer sheet referred to examination committee
+2,2,10002,2,An unauthorised electronic device was reported.,Parent informed; review pending
+3,3,10003,3,A prohibited note was found during desk inspection.,Answer sheet referred to examination committee
+4,4,10004,4,An unauthorised electronic device was reported.,Parent informed; review pending
+5,5,10005,5,Student was observed communicating during the examination.,Answer sheet referred to examination committee
+6,6,10006,6,An unauthorised electronic device was reported.,Answer sheet referred to examination committee
+7,7,10007,7,An unauthorised electronic device was reported.,Warning issued and recorded
+8,8,10008,8,Student was observed communicating during the examination.,Answer sheet referred to examination committee
+9,9,10009,9,An unauthorised electronic device was reported.,Parent informed; review pending
+10,10,10010,10,A prohibited note was found during desk inspection.,Answer sheet referred to examination committee
+11,11,10011,11,A prohibited note was found during desk inspection.,Parent informed; review pending
+12,12,10012,12,An unauthorised electronic device was reported.,Warning issued and recorded
+13,13,10013,13,Student was observed communicating during the examination.,Warning issued and recorded
+14,14,10014,14,Student was observed communicating during the examination.,Answer sheet referred to examination committee
+15,15,10015,15,A prohibited note was found during desk inspection.,Answer sheet referred to examination committee
+16,16,10016,16,An unauthorised electronic device was reported.,Parent informed; review pending
+17,17,10017,17,A prohibited note was found during desk inspection.,Warning issued and recorded
+18,18,10018,18,An unauthorised electronic device was reported.,Warning issued and recorded
+19,19,10019,19,An unauthorised electronic device was reported.,Parent informed; review pending
+20,20,10020,20,A prohibited note was found during desk inspection.,Warning issued and recorded

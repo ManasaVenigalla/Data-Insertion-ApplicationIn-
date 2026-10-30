@@ -1,0 +1,9 @@
+﻿metric_id,branch_id,academic_year_id,total_enrolled,total_dropped_out,total_graduated
+1,1,1,750,21,167
+2,2,2,822,24,240
+3,3,3,377,8,208
+4,4,4,349,31,167
+5,5,5,302,20,146
+6,6,6,384,25,145
+7,7,7,378,30,217
+8,8,8,1076,14,67

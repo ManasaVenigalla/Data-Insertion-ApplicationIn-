@@ -1,0 +1,21 @@
+﻿incident_id,student_id,reported_by_staff_id,incident_date,description,action_taken
+1,10001,1,2026-01-01,Repeated late arrival to morning assembly,Restorative activity assigned
+2,10002,2,2026-02-02,Misuse of school property,Restorative activity assigned
+3,10003,3,2026-03-03,Unapproved absence from assigned activity,Written warning issued
+4,10004,4,2026-04-04,Disruption during classroom activity,Counselling session completed
+5,10005,5,2026-05-05,Unapproved absence from assigned activity,Counselling session completed
+6,10006,6,2026-06-06,Repeated late arrival to morning assembly,Written warning issued
+7,10007,7,2026-07-07,Misuse of school property,Restorative activity assigned
+8,10008,8,2026-08-08,Unapproved absence from assigned activity,Written warning issued
+9,10009,9,2026-09-09,Disruption during classroom activity,Counselling session completed
+10,10010,10,2026-01-10,Failure to follow laboratory safety procedure,Counselling session completed
+11,10011,11,2026-02-11,Repeated late arrival to morning assembly,Written warning issued
+12,10012,12,2026-03-12,Disruption during classroom activity,No further action after review
+13,10013,13,2026-04-13,Disruption during classroom activity,Parent meeting scheduled
+14,10014,14,2026-05-14,Unapproved absence from assigned activity,Written warning issued
+15,10015,15,2026-06-15,Misuse of school property,No further action after review
+16,10016,16,2026-07-16,Misuse of school property,No further action after review
+17,10017,17,2026-08-17,Failure to follow laboratory safety procedure,Counselling session completed
+18,10018,18,2026-09-18,Failure to follow laboratory safety procedure,Written warning issued
+19,10019,19,2026-01-19,Misuse of school property,Counselling session completed
+20,10020,20,2026-02-20,Failure to follow laboratory safety procedure,Counselling session completed

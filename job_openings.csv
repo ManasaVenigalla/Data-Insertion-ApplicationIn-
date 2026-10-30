@@ -1,0 +1,21 @@
+﻿job_id,branch_id,title,department,status
+1,1,Mathematics Teacher,Academics,Open
+2,2,School Counsellor,Student Support,Open
+3,3,Lab Assistant,Science Lab,Open
+4,4,Accounts Executive,Finance,Closed
+5,5,IT Support Specialist,Information Technology,Open
+6,6,Primary Teacher,Primary Education,Closed
+7,7,Librarian,Library,Closed
+8,8,Transport Coordinator,Transport,Open
+9,9,Admissions Officer,Admissions,Open
+10,10,Physical Education Teacher,Sports,Open
+11,11,Mathematics Teacher,Academics,Open
+12,12,School Counsellor,Student Support,Open
+13,13,Lab Assistant,Science Lab,Closed
+14,14,Accounts Executive,Finance,Closed
+15,15,IT Support Specialist,Information Technology,Open
+16,16,Primary Teacher,Primary Education,Open
+17,17,Librarian,Library,Open
+18,18,Transport Coordinator,Transport,Open
+19,19,Admissions Officer,Admissions,Closed
+20,20,Physical Education Teacher,Sports,Closed

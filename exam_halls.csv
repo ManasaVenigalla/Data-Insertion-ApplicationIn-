@@ -1,0 +1,21 @@
+﻿hall_id,branch_id,hall_name,seating_capacity
+1,1,Tagore Hall,60
+2,2,Sarojini Naidu Hall,60
+3,3,Vivekananda Hall,80
+4,4,Main Auditorium,200
+5,5,Block A Examination Hall,120
+6,6,Science Wing Hall,80
+7,7,Library Seminar Hall,150
+8,8,North Wing Hall,80
+9,9,South Wing Hall,200
+10,10,Conference Hall,200
+11,11,Tagore Hall,200
+12,12,Sarojini Naidu Hall,60
+13,13,Vivekananda Hall,200
+14,14,Main Auditorium,60
+15,15,Block A Examination Hall,200
+16,16,Science Wing Hall,150
+17,17,Library Seminar Hall,120
+18,18,North Wing Hall,100
+19,19,South Wing Hall,150
+20,20,Conference Hall,200

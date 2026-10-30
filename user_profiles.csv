@@ -1,0 +1,61 @@
+﻿profile_id,user_id,first_name,last_name,phone,email,address,pin_code,mother_name,gender,date_of_birth
+1,1,Abhinav,Rao,+91-76049-39256,abhinav.rao01@example.com,"71, Ram Nagar, Guntur, Andhra Pradesh",522001,Swapna,Female,2010-12-04
+2,2,Varun,Prasad,+91-74328-40495,varun.prasad02@example.com,"24, Lake View Road, Vijayawada, Andhra Pradesh",520010,Swapna,Male,2008-09-07
+3,3,Ishita,Yadav,+91-60425-30926,ishita.yadav03@example.com,"208, MG Road, Bengaluru, Karnataka",560034,Saritha,Female,2014-06-09
+4,4,Gowtham,Krishna,+91-66338-57052,gowtham.krishna04@example.com,"98, Gandhi Nagar, Mangalagiri, Andhra Pradesh",522503,Sujatha,Male,2013-10-09
+5,5,Sravya,Rao,+91-79213-92397,sravya.rao05@example.com,"142, Gandhi Nagar, Rajahmundry, Andhra Pradesh",533101,Padma,Female,2013-10-07
+6,6,Akshara,Goud,+91-75256-23238,akshara.goud06@example.com,"219, Gandhi Nagar, Amaravati, Andhra Pradesh",522020,Shobha,Female,2014-05-15
+7,7,Meghana,Devi,+91-64679-89840,meghana.devi07@example.com,"69, Srinagar Colony, Chilakaluripet, Andhra Pradesh",522616,Madhavi,Female,2010-09-24
+8,8,Pranav,Babu,+91-96500-38785,pranav.babu08@example.com,"164, Kothapet, Repalle, Andhra Pradesh",522265,Sujatha,Male,2013-01-08
+9,9,Nikhil,Varma,+91-97170-51245,nikhil.varma09@example.com,"234, Brindavan Gardens, Tenali, Andhra Pradesh",522201,Bhavani,Male,2011-11-16
+10,10,Charan,Varma,+91-96789-80644,charan.varma10@example.com,"191, Brindavan Gardens, Narasaraopet, Andhra Pradesh",522601,Uma,Male,2012-12-19
+11,11,Meghana,Goud,+91-65957-16175,meghana.goud11@example.com,"127, Market Street, Narasaraopet, Andhra Pradesh",522601,Anuradha,Male,2009-03-21
+12,12,Yamini,Naidu,+91-90674-79352,yamini.naidu12@example.com,"153, RTC Colony, Rajahmundry, Andhra Pradesh",533101,Lakshmi,Female,2012-09-28
+13,13,Akshara,Dandu,+91-82293-24621,akshara.dandu13@example.com,"165, Balaji Nagar, Repalle, Andhra Pradesh",522265,Nirmala,Female,1984-07-06
+14,14,Deepika,Varma,+91-93271-23947,deepika.varma14@example.com,"46, Balaji Nagar, Hyderabad, Telangana",500081,Aruna,Female,2002-11-10
+15,15,Charan,Devi,+91-94757-10074,charan.devi15@example.com,"245, Market Street, Ongole, Andhra Pradesh",523001,Lakshmi,Female,1994-06-16
+16,16,Rahul,Devi,+91-75785-84364,rahul.devi16@example.com,"15, Brindavan Gardens, Amaravati, Andhra Pradesh",522020,Geetha,Female,2005-02-03
+17,17,Gowtham,Dandu,+91-91148-82063,gowtham.dandu17@example.com,"169, Brodipet, Narasaraopet, Andhra Pradesh",522601,Lalitha,Male,1980-05-17
+18,18,Harsha,Dandu,+91-86148-98039,harsha.dandu18@example.com,"80, Ram Nagar, Chilakaluripet, Andhra Pradesh",522616,Aruna,Male,1995-06-15
+19,19,Bhavya,Goud,+91-61378-87110,bhavya.goud19@example.com,"87, Gandhi Nagar, Bapatla, Andhra Pradesh",522101,Madhavi,Female,1992-04-19
+20,20,Arjun,Kumar,+91-62058-53309,arjun.kumar20@example.com,"232, Gandhi Nagar, Bapatla, Andhra Pradesh",522101,Kavitha,Male,1977-09-08
+21,21,Charan,Sharma,+91-72834-98644,charan.sharma21@example.com,"19, Lake View Road, Mangalagiri, Andhra Pradesh",522503,Vijaya,Female,1998-10-15
+22,22,Harika,Reddy,+91-88919-61026,harika.reddy22@example.com,"150, Teachers Colony, Hyderabad, Telangana",500081,Padma,Male,1995-02-12
+23,23,Navya,Devi,+91-98981-93012,navya.devi23@example.com,"66, Lake View Road, Guntur, Andhra Pradesh",522001,Madhavi,Female,1976-02-02
+24,24,Ritesh,Reddy,+91-81291-39878,ritesh.reddy24@example.com,"70, Teachers Colony, Guntur, Andhra Pradesh",522001,Vijaya,Female,1987-09-15
+25,25,Harika,Patel,+91-63328-57525,harika.patel25@example.com,"173, MG Road, Tirupati, Andhra Pradesh",517501,Vijaya,Female,1984-04-20
+26,26,Pooja,Goud,+91-79875-62378,pooja.goud26@example.com,"72, Teachers Colony, Bengaluru, Karnataka",560034,Swarna,Female,1986-09-28
+27,27,Nikhil,Murthy,+91-65232-29772,nikhil.murthy27@example.com,"205, Teachers Colony, Vijayawada, Andhra Pradesh",520010,Anuradha,Male,1987-10-02
+28,28,Mounika,Kumar,+91-77845-61145,mounika.kumar28@example.com,"196, MG Road, Tenali, Andhra Pradesh",522201,Jyothi,Female,1997-02-06
+29,29,Charan,Prasad,+91-84088-47818,charan.prasad29@example.com,"57, MG Road, Visakhapatnam, Andhra Pradesh",530016,Jyothi,Female,1995-08-21
+30,30,Deepika,Varma,+91-94907-69658,deepika.varma30@example.com,"63, Market Street, Mangalagiri, Andhra Pradesh",522503,Jyothi,Female,1991-11-07
+31,31,Pooja,Kumar,+91-74830-77125,pooja.kumar31@example.com,"42, Gandhi Nagar, Guntur, Andhra Pradesh",522001,Madhavi,Male,1982-11-02
+32,32,Keerthi,Sharma,+91-88744-17499,keerthi.sharma32@example.com,"55, Gandhi Nagar, Tirupati, Andhra Pradesh",517501,Lakshmi,Female,1982-08-08
+33,33,Akash,Chowdary,+91-98991-53342,akash.chowdary33@example.com,"50, Market Street, Bengaluru, Karnataka",560034,Saritha,Male,1984-03-11
+34,34,Bhavana,Kolluri,+91-80801-97808,bhavana.kolluri34@example.com,"100, Lake View Road, Rajahmundry, Andhra Pradesh",533101,Saritha,Male,1988-11-09
+35,35,Sravya,Patel,+91-88228-11268,sravya.patel35@example.com,"172, Gandhi Nagar, Visakhapatnam, Andhra Pradesh",530016,Sujatha,Male,1977-04-19
+36,36,Akash,Murthy,+91-99084-22730,akash.murthy36@example.com,"249, MG Road, Guntur, Andhra Pradesh",522001,Jyothi,Male,1998-02-04
+37,37,Mounika,Kumar,+91-63784-18253,mounika.kumar37@example.com,"47, Ram Nagar, Visakhapatnam, Andhra Pradesh",530016,Vijaya,Female,1978-08-04
+38,38,Pranav,Naidu,+91-67535-79815,pranav.naidu38@example.com,"2, MG Road, Tirupati, Andhra Pradesh",517501,Padma,Female,1992-05-06
+39,39,Harika,Kolluri,+91-96336-98452,harika.kolluri39@example.com,"172, Gandhi Nagar, Visakhapatnam, Andhra Pradesh",530016,Madhavi,Male,1990-03-17
+40,40,Akash,Reddy,+91-63391-10240,akash.reddy40@example.com,"230, Gandhi Nagar, Visakhapatnam, Andhra Pradesh",530016,Sujatha,Male,1998-07-02
+41,41,Mounika,Chowdary,+91-83140-53824,mounika.chowdary41@example.com,"71, Ram Nagar, Rajahmundry, Andhra Pradesh",533101,Madhavi,Male,1998-11-19
+42,42,Charan,Devi,+91-79346-98374,charan.devi42@example.com,"189, Market Street, Ongole, Andhra Pradesh",523001,Madhavi,Female,1997-05-16
+43,43,Keerthi,Sharma,+91-79896-80212,keerthi.sharma43@example.com,"17, Gandhi Nagar, Rajahmundry, Andhra Pradesh",533101,Lakshmi,Female,1979-11-02
+44,44,Teja,Sharma,+91-98526-65220,teja.sharma44@example.com,"163, Gandhi Nagar, Rajahmundry, Andhra Pradesh",533101,Anuradha,Female,1985-10-10
+45,45,Ritesh,Goud,+91-69158-49594,ritesh.goud45@example.com,"175, Market Street, Rajahmundry, Andhra Pradesh",533101,Jyothi,Male,1996-11-26
+46,46,Navya,Rao,+91-61690-67325,navya.rao46@example.com,"226, Gandhi Nagar, Vijayawada, Andhra Pradesh",520010,Aruna,Female,1993-10-04
+47,47,Kavya,Patel,+91-96245-55020,kavya.patel47@example.com,"104, MG Road, Visakhapatnam, Andhra Pradesh",530016,Sujatha,Male,1992-05-25
+48,48,Harika,Reddy,+91-67497-68445,harika.reddy48@example.com,"122, Gandhi Nagar, Vijayawada, Andhra Pradesh",520010,Vijaya,Female,1994-03-09
+49,49,Navya,Reddy,+91-96819-17149,navya.reddy49@example.com,"76, Gandhi Nagar, Hyderabad, Telangana",500081,Jyothi,Male,1979-04-12
+50,50,Sai,Kumar,+91-81585-99008,sai.kumar50@example.com,"97, MG Road, Bengaluru, Karnataka",560034,Vijaya,Male,1975-10-05
+51,51,Charan,Varma,+91-76097-23819,charan.varma51@example.com,"103, Gandhi Nagar, Ongole, Andhra Pradesh",523001,Lakshmi,Male,1975-11-22
+52,52,Sai,Patel,+91-77800-56825,sai.patel52@example.com,"93, Market Street, Bengaluru, Karnataka",560034,Padma,Female,1980-11-21
+53,53,Pranav,Reddy,+91-98767-29342,pranav.reddy53@example.com,"238, Lake View Road, Tenali, Andhra Pradesh",522201,Madhavi,Female,1999-08-16
+54,54,Deepika,Chowdary,+91-86306-66334,deepika.chowdary54@example.com,"152, Teachers Colony, Tenali, Andhra Pradesh",522201,Padma,Female,1986-12-23
+55,55,Pooja,Sharma,+91-63330-60709,pooja.sharma55@example.com,"206, Ram Nagar, Hyderabad, Telangana",500081,Padma,Male,1987-02-06
+56,56,Nikhil,Reddy,+91-77771-55845,nikhil.reddy56@example.com,"219, MG Road, Guntur, Andhra Pradesh",522001,Aruna,Female,1999-12-21
+57,57,Sai,Sharma,+91-89347-15770,sai.sharma57@example.com,"100, Gandhi Nagar, Hyderabad, Telangana",500081,Jyothi,Female,1985-09-08
+58,58,Kavya,Gupta,+91-64158-49079,kavya.gupta58@example.com,"47, Gandhi Nagar, Hyderabad, Telangana",500081,Padma,Male,1990-03-17
+59,59,Aditya,Naidu,+91-96961-77167,aditya.naidu59@example.com,"214, Gandhi Nagar, Ongole, Andhra Pradesh",523001,Anuradha,Male,2000-11-06
+60,60,Deepika,Gupta,+91-94383-72631,deepika.gupta60@example.com,"128, Lake View Road, Tirupati, Andhra Pradesh",517501,Swarna,Male,1997-09-16

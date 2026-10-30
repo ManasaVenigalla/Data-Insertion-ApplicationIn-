@@ -1,0 +1,21 @@
+﻿book_id,title,author,isbn,branch_id,status
+1,Wings of Fire,A. P. J. Abdul Kalam,978-7-688775-722-1,1,Available
+2,The Blue Umbrella,Ruskin Bond,978-4-754096-296-2,2,Available
+3,The Guide,R. K. Narayan,978-3-618340-634-3,3,Lost
+4,India After Gandhi,Ramachandra Guha,978-8-221289-850-4,4,Available
+5,A Brief History of Time,Stephen Hawking,978-5-648820-790-5,5,Issued
+6,The Alchemist,Paulo Coelho,978-8-241261-591-6,6,Lost
+7,Gitanjali,Rabindranath Tagore,978-0-581631-262-7,7,Available
+8,Python Crash Course,Eric Matthes,978-4-824178-289-8,8,Available
+9,Clean Code,Robert C. Martin,978-9-776712-766-9,9,Available
+10,The Discovery of India,Jawaharlal Nehru,978-6-804535-383-0,10,Available
+11,Animal Farm,George Orwell,978-2-223646-276-1,11,Lost
+12,Pride and Prejudice,Jane Austen,978-4-358004-337-2,12,Available
+13,The Hobbit,J. R. R. Tolkien,978-8-186167-469-3,13,Issued
+14,Sapiens,Yuval Noah Harari,978-2-480950-450-4,14,Available
+15,Introduction to Algorithms,Thomas H. Cormen,978-6-127494-257-5,15,Available
+16,Deep Learning,Ian Goodfellow,978-0-776984-889-6,16,Lost
+17,The Diary of a Young Girl,Anne Frank,978-8-570976-481-7,17,Issued
+18,To Kill a Mockingbird,Harper Lee,978-2-258582-320-8,18,Lost
+19,The Immortals of Meluha,Amish Tripathi,978-4-594385-540-9,19,Issued
+20,Learning SQL,Alan Beaulieu,978-0-770029-399-0,20,Issued

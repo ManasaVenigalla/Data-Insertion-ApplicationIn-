@@ -1,0 +1,21 @@
+﻿building_id,branch_id,building_name,gender_type,warden_staff_id
+1,1,Krishna Boys Hostel,Co-Ed,1
+2,2,Godavari Girls Hostel,Co-Ed,2
+3,3,Residential Block A,Girls,3
+4,4,Residential Block B,Boys,4
+5,5,Junior Students Hostel,Boys,5
+6,6,Krishna Boys Hostel,Girls,6
+7,7,Godavari Girls Hostel,Girls,7
+8,8,Residential Block A,Boys,8
+9,9,Residential Block B,Co-Ed,9
+10,10,Junior Students Hostel,Boys,10
+11,11,Krishna Boys Hostel,Co-Ed,11
+12,12,Godavari Girls Hostel,Girls,12
+13,13,Residential Block A,Boys,13
+14,14,Residential Block B,Co-Ed,14
+15,15,Junior Students Hostel,Co-Ed,15
+16,16,Krishna Boys Hostel,Girls,16
+17,17,Godavari Girls Hostel,Co-Ed,17
+18,18,Residential Block A,Co-Ed,18
+19,19,Residential Block B,Co-Ed,19
+20,20,Junior Students Hostel,Girls,20

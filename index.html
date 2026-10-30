@@ -1,0 +1,488 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>School Management - Data Import Portal</title>
+
+    <style>
+        * { box-sizing: border-box; }
+
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #f3f6fb;
+            color: #243247;
+        }
+
+        header {
+            background: #183b65;
+            color: white;
+            text-align: center;
+            padding: 25px 15px;
+        }
+
+        header h1 {
+            margin: 0 0 8px;
+            font-size: 27px;
+        }
+
+        header p {
+            margin: 0;
+            color: #e1eaf7;
+        }
+
+        main {
+            max-width: 1400px;
+            margin: 28px auto;
+            padding: 0 18px;
+        }
+
+        .panel {
+            background: white;
+            border-radius: 12px;
+            padding: 24px;
+            margin-bottom: 22px;
+            box-shadow: 0 3px 14px #172b4d12;
+        }
+
+        h2 {
+            margin-top: 0;
+            font-size: 21px;
+        }
+
+        .formats {
+            color: #52647b;
+            line-height: 1.8;
+            font-size: 14px;
+        }
+
+        input[type="file"] {
+            display: block;
+            width: 100%;
+            padding: 14px;
+            margin: 18px 0;
+            border: 1px dashed #8ca5c3;
+            border-radius: 8px;
+            background: #f8fbff;
+        }
+
+        button {
+            border: 0;
+            border-radius: 7px;
+            padding: 12px 24px;
+            background: #1768c4;
+            color: white;
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+        button:hover { background: #10549f; }
+
+        button:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+        }
+
+        #processing {
+            display: none;
+            align-items: center;
+            gap: 13px;
+            margin-top: 22px;
+            padding: 16px;
+            background: #edf5ff;
+            border: 1px solid #c9def7;
+            border-radius: 8px;
+            color: #174d89;
+        }
+
+        .spinner {
+            width: 25px;
+            height: 25px;
+            border: 3px solid #c5dcf8;
+            border-top-color: #1768c4;
+            border-radius: 50%;
+            animation: spin 0.8s linear infinite;
+            flex-shrink: 0;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+
+        .summary {
+            display: grid;
+            grid-template-columns: repeat(3, minmax(0, 1fr));
+            gap: 16px;
+            margin-bottom: 22px;
+        }
+
+        .summary-card {
+            background: white;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 3px 14px #172b4d0c;
+        }
+
+        .summary-card span {
+            display: block;
+            color: #627188;
+            font-size: 14px;
+            margin-bottom: 10px;
+        }
+
+        .summary-card strong {
+            font-size: 28px;
+        }
+
+        .table-wrap { overflow-x: auto; }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            min-width: 950px;
+        }
+
+        th, td {
+            border-bottom: 1px solid #e5eaf1;
+            padding: 13px 12px;
+            text-align: left;
+            vertical-align: top;
+            font-size: 13px;
+        }
+
+        th {
+            background: #edf2f8;
+            color: #344861;
+            white-space: nowrap;
+        }
+
+        tr.failed-row { background: #fff0f0; }
+        tr.partial-row { background: #fff9e9; }
+        tr.success-row { background: #f1fbf4; }
+
+        .status {
+            display: inline-block;
+            padding: 5px 9px;
+            border-radius: 20px;
+            font-weight: bold;
+            white-space: nowrap;
+        }
+
+        .status.Success {
+            color: #146c36;
+            background: #d8f5e1;
+        }
+
+        .status.Failed {
+            color: #a51e28;
+            background: #ffdbde;
+        }
+
+        .status.partial {
+            color: #875800;
+            background: #ffedbd;
+        }
+
+        details summary {
+            cursor: pointer;
+            color: #174d89;
+            font-weight: bold;
+        }
+
+        .error-list {
+            min-width: 260px;
+            max-width: 480px;
+            white-space: normal;
+            overflow-wrap: anywhere;
+            line-height: 1.5;
+        }
+
+        .error-item {
+            padding: 8px;
+            margin-top: 7px;
+            border-left: 3px solid #c92a35;
+            background: #fff;
+        }
+
+        .muted {
+            color: #68788e;
+            font-size: 13px;
+        }
+
+        #notice {
+            margin-top: 15px;
+            color: #a51e28;
+            overflow-wrap: anywhere;
+        }
+
+        @media (max-width: 650px) {
+            .summary { grid-template-columns: 1fr; }
+            header h1 { font-size: 22px; }
+            .panel { padding: 16px; }
+        }
+    </style>
+</head>
+
+<body>
+<header>
+    <h1>School Management System</h1>
+    <p>Data File Import Portal</p>
+</header>
+
+<main>
+    <section class="panel">
+        <h2>Upload Data Files</h2>
+
+        <p class="formats">
+            Supported formats: CSV (.csv), Excel (.xlsx, .xls),
+            JSON (.json), and tab-separated files (.tsv).<br>
+            Select multiple files. Each filename without its extension
+            must match an existing database table name.
+        </p>
+
+        <form id="uploadForm">
+            <input
+                type="file"
+                id="dataFiles"
+                name="files"
+                accept=".csv,.tsv,.xlsx,.xls,.json"
+                multiple
+                required
+            >
+
+            <button type="submit" id="uploadButton">
+                Import Data
+            </button>
+        </form>
+
+        <div id="processing" role="status" aria-live="polite">
+            <div class="spinner"></div>
+            <div>
+                <strong>Processing your data files...</strong>
+                <div class="muted">
+                    Validating table structures and inserting records.
+                    Please wait.
+                </div>
+            </div>
+        </div>
+
+        <div id="notice" role="alert"></div>
+    </section>
+
+    <section class="summary">
+        <div class="summary-card">
+            <span>Data Files Processed</span>
+            <strong id="fileCount">0</strong>
+        </div>
+
+        <div class="summary-card">
+            <span>Total Rows Inserted</span>
+            <strong id="insertedCount">0</strong>
+        </div>
+
+        <div class="summary-card">
+            <span>Total Rows Failed</span>
+            <strong id="failedCount">0</strong>
+        </div>
+    </section>
+
+    <section class="panel">
+        <h2>Import Results</h2>
+
+        <div class="table-wrap">
+            <table>
+                <thead>
+                    <tr>
+                        <th>File Name</th>
+                        <th>Table Name</th>
+                        <th>Status</th>
+                        <th>Total Rows</th>
+                        <th>Inserted Rows</th>
+                        <th>Failed Rows</th>
+                        <th>Problem Details</th>
+                    </tr>
+                </thead>
+
+                <tbody id="resultsBody">
+                    <tr>
+                        <td colspan="7" class="muted">
+                            No data files have been processed yet.
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </section>
+</main>
+
+<script>
+    const uploadForm = document.getElementById("uploadForm");
+    const dataFiles = document.getElementById("dataFiles");
+    const uploadButton = document.getElementById("uploadButton");
+    const processing = document.getElementById("processing");
+    const resultsBody = document.getElementById("resultsBody");
+    const notice = document.getElementById("notice");
+
+    function addCell(row, value) {
+        const cell = document.createElement("td");
+        cell.textContent = value ?? "";
+        row.appendChild(cell);
+        return cell;
+    }
+
+    function renderResults(results) {
+        resultsBody.replaceChildren();
+
+        let insertedTotal = 0;
+        let failedTotal = 0;
+
+        document.getElementById("fileCount").textContent =
+            results.length;
+
+        results.forEach(result => {
+            insertedTotal += Number(result.inserted || 0);
+            failedTotal += Number(result.failed || 0);
+
+            const row = document.createElement("tr");
+
+            if (result.status === "Failed") {
+                row.className = "failed-row";
+            } else if (result.status === "Partial Success") {
+                row.className = "partial-row";
+            } else {
+                row.className = "success-row";
+            }
+
+            addCell(row, result.file);
+            addCell(row, result.table || "Not identified");
+
+            const statusCell = document.createElement("td");
+            const badge = document.createElement("span");
+            badge.className = "status " +
+                (result.status === "Partial Success"
+                    ? "partial"
+                    : result.status);
+            badge.textContent = result.status;
+            statusCell.appendChild(badge);
+            row.appendChild(statusCell);
+
+            addCell(row, result.total || 0);
+            addCell(row, result.inserted || 0);
+            addCell(row, result.failed || 0);
+
+            const detailsCell = document.createElement("td");
+            detailsCell.className = "error-list";
+
+            const errors = result.errors || [];
+
+            if (errors.length > 0) {
+                const details = document.createElement("details");
+                const summary = document.createElement("summary");
+                summary.textContent =
+                    `${errors.length} problem(s) — view details`;
+                details.appendChild(summary);
+
+                errors.forEach(error => {
+                    const item = document.createElement("div");
+                    item.className = "error-item";
+
+                    const title = document.createElement("strong");
+                    title.textContent =
+                        `Row ${error.row ?? "-"}`
+                        + (error.column ? ` | Column: ${error.column}` : "");
+
+                    const message = document.createElement("div");
+                    message.textContent = error.message || "Unknown error";
+
+                    item.append(title, message);
+                    details.appendChild(item);
+                });
+
+                detailsCell.appendChild(details);
+            } else {
+                detailsCell.textContent =
+                    result.message || "No problems reported.";
+            }
+
+            row.appendChild(detailsCell);
+            resultsBody.appendChild(row);
+        });
+
+        document.getElementById("insertedCount").textContent =
+            insertedTotal;
+
+        document.getElementById("failedCount").textContent =
+            failedTotal;
+
+        if (results.length === 0) {
+            const row = document.createElement("tr");
+            const cell = addCell(row, "No results returned.");
+            cell.colSpan = 7;
+            resultsBody.appendChild(row);
+        }
+    }
+
+    uploadForm.addEventListener("submit", async event => {
+        event.preventDefault();
+
+        notice.textContent = "";
+
+        if (!dataFiles.files.length) {
+            notice.textContent = "Please select at least one data file.";
+            return;
+        }
+
+        const formData = new FormData();
+
+        for (const file of dataFiles.files) {
+            formData.append("files", file);
+        }
+
+        const startTime = Date.now();
+
+        uploadButton.disabled = true;
+        dataFiles.disabled = true;
+        processing.style.display = "flex";
+
+        try {
+            const response = await fetch("/upload", {
+                method: "POST",
+                body: formData
+            });
+
+            const data = await response.json();
+
+            // Keep the indicator visible for at least two seconds.
+            const remaining = 2000 - (Date.now() - startTime);
+
+            if (remaining > 0) {
+                await new Promise(resolve =>
+                    setTimeout(resolve, remaining)
+                );
+            }
+
+            if (!response.ok && !data.results) {
+                throw new Error(data.error || "The import request failed.");
+            }
+
+            renderResults(data.results || []);
+
+            if (data.error) {
+                notice.textContent = data.error;
+            }
+
+        } catch (error) {
+            notice.textContent =
+                "Unable to process the data files: " + error.message;
+
+        } finally {
+            processing.style.display = "none";
+            uploadButton.disabled = false;
+            dataFiles.disabled = false;
+        }
+    });
+</script>
+</body>
+</html>

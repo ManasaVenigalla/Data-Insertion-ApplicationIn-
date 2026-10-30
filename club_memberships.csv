@@ -1,0 +1,21 @@
+﻿membership_id,club_id,student_id,joined_date,role_in_club
+1,1,10001,2026-01-01,Member
+2,2,10002,2026-02-01,Vice President
+3,3,10003,2026-03-01,Vice President
+4,4,10004,2026-04-01,Vice President
+5,5,10005,2026-05-01,Secretary
+6,6,10006,2026-06-01,Secretary
+7,7,10007,2026-07-01,President
+8,8,10008,2026-08-01,Vice President
+9,9,10009,2026-09-01,Secretary
+10,10,10010,2026-01-01,Treasurer
+11,11,10011,2026-02-01,President
+12,12,10012,2026-03-01,Member
+13,13,10013,2026-04-01,Treasurer
+14,14,10014,2026-05-01,Secretary
+15,15,10015,2026-06-01,President
+16,16,10016,2026-07-01,President
+17,17,10017,2026-08-01,Treasurer
+18,18,10018,2026-09-01,Vice President
+19,19,10019,2026-01-01,President
+20,20,10020,2026-02-01,Treasurer

@@ -1,0 +1,21 @@
+﻿po_item_id,po_id,item_name,quantity,unit_price
+1,1,A4 Paper Cartons,19,1200.00
+2,2,Science Lab Glassware,37,8500.00
+3,3,Desktop Computers,41,750.00
+4,4,Sports Uniforms,61,1200.00
+5,5,Classroom Desks,23,450.00
+6,6,Library Textbooks,50,8500.00
+7,7,Cleaning Materials,17,1200.00
+8,8,Projector Screens,89,120.00
+9,9,First Aid Supplies,57,1200.00
+10,10,Art Paper Packs,27,8500.00
+11,11,A4 Paper Cartons,85,750.00
+12,12,Science Lab Glassware,7,450.00
+13,13,Desktop Computers,97,250.00
+14,14,Sports Uniforms,96,8500.00
+15,15,Classroom Desks,42,120.00
+16,16,Library Textbooks,58,8500.00
+17,17,Cleaning Materials,70,750.00
+18,18,Projector Screens,32,2500.00
+19,19,First Aid Supplies,97,1200.00
+20,20,Art Paper Packs,78,250.00

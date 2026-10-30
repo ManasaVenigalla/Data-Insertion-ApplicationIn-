@@ -1,0 +1,21 @@
+﻿branch_id,branch_name,code,address,tax_number
+1,Guntur Main Campus,GNT,"172, Lake View Road, Guntur, Andhra Pradesh",GSTIN28ABCDE1001Z2
+2,Vijayawada Campus,VJA,"176, MG Road, Vijayawada, Andhra Pradesh",GSTIN29ABCDE1002Z3
+3,Tenali Campus,TNL,"11, MG Road, Tenali, Andhra Pradesh",GSTIN30ABCDE1003Z4
+4,Mangalagiri Campus,MGL,"86, Gandhi Nagar, Mangalagiri, Andhra Pradesh",GSTIN31ABCDE1004Z5
+5,Ongole Campus,ONG,"36, Lake View Road, Ongole, Andhra Pradesh",GSTIN32ABCDE1005Z6
+6,Visakhapatnam Campus,VSK,"248, Gandhi Nagar, Visakhapatnam, Andhra Pradesh",GSTIN33ABCDE1006Z7
+7,Tirupati Campus,TPT,"70, Main Road, Tirupati, Andhra Pradesh",GSTIN34ABCDE1007Z8
+8,Nellore Campus,NLR,"14, Main Road, Nellore, Andhra Pradesh",GSTIN35ABCDE1008Z9
+9,Rajahmundry Campus,RJM,"172, Gandhi Nagar, Rajahmundry, Andhra Pradesh",GSTIN36ABCDE1009Z1
+10,Hyderabad Campus,HYD,"150, Gandhi Nagar, Hyderabad, Telangana",GSTIN37ABCDE1010Z2
+11,Bengaluru Campus,BLR,"112, Gandhi Nagar, Bengaluru, Karnataka",GSTIN38ABCDE1011Z3
+12,Chennai Campus,CHE,"226, Gandhi Nagar, Chennai, Tamil Nadu",GSTIN39ABCDE1012Z4
+13,Kurnool Campus,KNL,"46, MG Road, Kurnool, Andhra Pradesh",GSTIN40ABCDE1013Z5
+14,Kadapa Campus,KDP,"59, Gandhi Nagar, Kadapa, Andhra Pradesh",GSTIN41ABCDE1014Z6
+15,Eluru Campus,ELR,"71, Gandhi Nagar, Eluru, Andhra Pradesh",GSTIN42ABCDE1015Z7
+16,Anantapur Campus,ATP,"177, Gandhi Nagar, Anantapur, Andhra Pradesh",GSTIN43ABCDE1016Z8
+17,Amaravati Campus,AMR,"3, Lake View Road, Amaravati, Andhra Pradesh",GSTIN44ABCDE1017Z9
+18,Srikakulam Campus,SKL,"49, Main Road, Srikakulam, Andhra Pradesh",GSTIN45ABCDE1018Z1
+19,Kakinada Campus,KKD,"239, Main Road, Kakinada, Andhra Pradesh",GSTIN46ABCDE1019Z2
+20,Machilipatnam Campus,MCH,"125, Lake View Road, Machilipatnam, Andhra Pradesh",GSTIN47ABCDE1020Z3

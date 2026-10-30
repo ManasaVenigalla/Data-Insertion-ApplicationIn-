@@ -1,0 +1,21 @@
+﻿event_id,branch_id,event_title,event_date,location
+1,1,Campus Networking Evening,2026-01-06 17:00:00,Guntur Main Campus
+2,2,Annual Alumni Meet,2026-02-07 17:00:00,Main Auditorium
+3,3,Career Mentoring Day,2026-03-08 17:00:00,Conference Hall
+4,4,Annual Alumni Meet,2026-04-09 17:00:00,Vijayawada Campus
+5,5,Annual Alumni Meet,2026-05-10 17:00:00,Vijayawada Campus
+6,6,Annual Alumni Meet,2026-06-11 17:00:00,Guntur Main Campus
+7,7,Campus Networking Evening,2026-07-12 17:00:00,Vijayawada Campus
+8,8,Campus Networking Evening,2026-08-13 17:00:00,Conference Hall
+9,9,Career Mentoring Day,2026-09-14 17:00:00,Conference Hall
+10,10,Campus Networking Evening,2026-10-15 17:00:00,Vijayawada Campus
+11,11,Annual Alumni Meet,2026-11-16 17:00:00,Guntur Main Campus
+12,12,Campus Networking Evening,2026-12-17 17:00:00,Conference Hall
+13,13,Alumni Lecture Series,2026-01-18 17:00:00,Guntur Main Campus
+14,14,Career Mentoring Day,2026-02-19 17:00:00,Vijayawada Campus
+15,15,Annual Alumni Meet,2026-03-20 17:00:00,Main Auditorium
+16,16,Campus Networking Evening,2026-04-21 17:00:00,Guntur Main Campus
+17,17,Annual Alumni Meet,2026-05-22 17:00:00,Guntur Main Campus
+18,18,Alumni Lecture Series,2026-06-23 17:00:00,Vijayawada Campus
+19,19,Founders Day Reunion,2026-07-24 17:00:00,Conference Hall
+20,20,Career Mentoring Day,2026-08-25 17:00:00,Guntur Main Campus

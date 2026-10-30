@@ -1,0 +1,21 @@
+﻿submission_id,assignment_id,student_id,submission_text,file_url,submitted_at,marks_awarded,feedback
+1,1,10001,Completed the assignment with worked examples and supporting explanations.,https://example.com/submissions/submission_0001.pdf,2026-01-01 16:30:00,17.00,Please add more supporting details.
+2,2,10002,Completed the assignment with worked examples and supporting explanations.,https://example.com/submissions/submission_0002.pdf,2026-02-02 16:30:00,12.00,"Correct approach, with minor errors."
+3,3,10003,Completed the assignment with worked examples and supporting explanations.,https://example.com/submissions/submission_0003.pdf,2026-03-03 16:30:00,16.00,"Correct approach, with minor errors."
+4,4,10004,Completed the assignment with worked examples and supporting explanations.,https://example.com/submissions/submission_0004.pdf,2026-04-04 16:30:00,11.00,Good effort; clear explanation.
+5,5,10005,Completed the assignment with worked examples and supporting explanations.,https://example.com/submissions/submission_0005.pdf,2026-05-05 16:30:00,9.00,"Correct approach, with minor errors."
+6,6,10006,Completed the assignment with worked examples and supporting explanations.,https://example.com/submissions/submission_0006.pdf,2026-06-06 16:30:00,16.00,"Correct approach, with minor errors."
+7,7,10007,Completed the assignment with worked examples and supporting explanations.,https://example.com/submissions/submission_0007.pdf,2026-07-07 16:30:00,20.00,Well organised and submitted on time.
+8,8,10008,Completed the assignment with worked examples and supporting explanations.,https://example.com/submissions/submission_0008.pdf,2026-08-08 16:30:00,13.00,Good effort; clear explanation.
+9,9,10009,Completed the assignment with worked examples and supporting explanations.,https://example.com/submissions/submission_0009.pdf,2026-09-09 16:30:00,10.00,Good effort; clear explanation.
+10,10,10010,Completed the assignment with worked examples and supporting explanations.,https://example.com/submissions/submission_0010.pdf,2026-01-10 16:30:00,16.00,Well organised and submitted on time.
+11,11,10011,Completed the assignment with worked examples and supporting explanations.,https://example.com/submissions/submission_0011.pdf,2026-02-11 16:30:00,10.00,"Correct approach, with minor errors."
+12,12,10012,Completed the assignment with worked examples and supporting explanations.,https://example.com/submissions/submission_0012.pdf,2026-03-12 16:30:00,11.00,Good effort; clear explanation.
+13,13,10013,Completed the assignment with worked examples and supporting explanations.,https://example.com/submissions/submission_0013.pdf,2026-04-13 16:30:00,16.00,Well organised and submitted on time.
+14,14,10014,Completed the assignment with worked examples and supporting explanations.,https://example.com/submissions/submission_0014.pdf,2026-05-14 16:30:00,11.00,"Correct approach, with minor errors."
+15,15,10015,Completed the assignment with worked examples and supporting explanations.,https://example.com/submissions/submission_0015.pdf,2026-06-15 16:30:00,12.00,Good effort; clear explanation.
+16,16,10016,Completed the assignment with worked examples and supporting explanations.,https://example.com/submissions/submission_0016.pdf,2026-07-16 16:30:00,20.00,"Correct approach, with minor errors."
+17,17,10017,Completed the assignment with worked examples and supporting explanations.,https://example.com/submissions/submission_0017.pdf,2026-08-17 16:30:00,14.00,"Correct approach, with minor errors."
+18,18,10018,Completed the assignment with worked examples and supporting explanations.,https://example.com/submissions/submission_0018.pdf,2026-09-18 16:30:00,12.00,Well organised and submitted on time.
+19,19,10019,Completed the assignment with worked examples and supporting explanations.,https://example.com/submissions/submission_0019.pdf,2026-01-19 16:30:00,7.00,Please add more supporting details.
+20,20,10020,Completed the assignment with worked examples and supporting explanations.,https://example.com/submissions/submission_0020.pdf,2026-02-20 16:30:00,8.00,Good effort; clear explanation.

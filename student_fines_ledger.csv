@@ -1,0 +1,21 @@
+﻿fine_ledger_id,student_id,reason,amount,status,payment_id
+1,10001,Late fee payment,500.00,Paid,1
+2,10002,Sports equipment damage,250.00,Unpaid,2
+3,10003,Sports equipment damage,250.00,Unpaid,3
+4,10004,Sports equipment damage,50.00,Unpaid,4
+5,10005,Lost ID card,250.00,Unpaid,5
+6,10006,Late library book return,100.00,Unpaid,6
+7,10007,Damaged laboratory equipment,100.00,Paid,7
+8,10008,Late fee payment,50.00,Paid,8
+9,10009,Late fee payment,250.00,Unpaid,9
+10,10010,Lost ID card,150.00,Unpaid,10
+11,10011,Late library book return,100.00,Unpaid,11
+12,10012,Late library book return,500.00,Unpaid,12
+13,10013,Lost ID card,150.00,Unpaid,13
+14,10014,Late fee payment,250.00,Unpaid,14
+15,10015,Late fee payment,250.00,Unpaid,15
+16,10016,Late library book return,250.00,Paid,16
+17,10017,Late library book return,250.00,Paid,17
+18,10018,Sports equipment damage,100.00,Unpaid,18
+19,10019,Damaged laboratory equipment,150.00,Unpaid,19
+20,10020,Late library book return,100.00,Unpaid,20

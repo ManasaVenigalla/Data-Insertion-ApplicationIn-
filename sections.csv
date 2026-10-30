@@ -1,0 +1,21 @@
+﻿section_id,class_id,section_name,room_number,capacity
+1,1,Section A,100,45
+2,2,Section B,101,35
+3,3,Section C,102,35
+4,4,Section D,103,35
+5,5,Section E,104,35
+6,6,Section F,105,45
+7,7,Section G,106,45
+8,8,Section H,107,50
+9,9,Section I,108,40
+10,10,Section J,109,50
+11,11,Section K,110,50
+12,12,Section L,111,50
+13,13,Section M,112,40
+14,14,Section N,113,45
+15,15,Section O,114,50
+16,16,Section P,115,35
+17,17,Section Q,116,50
+18,18,Section R,117,40
+19,19,Section S,118,30
+20,20,Section T,119,35

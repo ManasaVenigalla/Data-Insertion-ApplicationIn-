@@ -1,0 +1,21 @@
+﻿sports_item_id,branch_id,item_name,quantity_owned,quantity_usable
+1,1,Football,29,40
+2,2,Cricket Bat,62,55
+3,3,Volleyball,75,18
+4,4,Basketball,43,44
+5,5,Badminton Racket,36,18
+6,6,Table Tennis Set,30,18
+7,7,Skipping Rope,44,47
+8,8,Chess Board,37,13
+9,9,Athletics Baton,79,23
+10,10,Carrom Board,13,59
+11,11,Football,46,27
+12,12,Cricket Bat,58,52
+13,13,Volleyball,67,8
+14,14,Basketball,15,29
+15,15,Badminton Racket,27,62
+16,16,Table Tennis Set,64,29
+17,17,Skipping Rope,43,20
+18,18,Chess Board,35,27
+19,19,Athletics Baton,49,43
+20,20,Carrom Board,11,55
